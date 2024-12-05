@@ -23,8 +23,8 @@ To get started with the project:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/e-plant-shopping.git
-   cd e-plant-shopping
+   git clone https://github.com/yourusername/e-plantShopping.git
+   cd e-plantShopping
    ```
 
 2. Install dependencies:
